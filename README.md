@@ -4,8 +4,8 @@
 🎓 B.Tech Computer Science Student at BIT Sindri
 
 I am passionate about building scalable web applications and solving complex algorithmic problems using Data Structures and Algorithms. I enjoy working on backend systems, REST APIs, and full-stack development using the MERN stack.
-🚀 Currently seeking opportunities in Full-Stack Web Development and Software Development roles.
 
+🚀 Currently seeking opportunities in **Full-Stack Web Development** and **Software Development** roles.
 ---
 
 ## 🧑‍💻 Competitive Programming
