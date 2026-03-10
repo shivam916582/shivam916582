@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Shivam Kumar Singh
 
-<!--
-**shivam916582/shivam916582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack MERN Developer & Competitive Programmer  
+🎓 B.Tech Computer Science Student at BIT Sindri
 
-Here are some ideas to get you started:
+I am passionate about building scalable web applications and solving complex algorithmic problems using Data Structures and Algorithms. I enjoy working on backend systems, REST APIs, and full-stack development using the MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Competitive Programming
+
+- ⭐ CodeChef Rating: **1801**
+- 💻 Codeforces Specialist: **1467**
+- 🧠 Solved **600+ DSA problems**
+- 🏆 Rank **54 / 15000+ participants** in CodeChef Starters 137
+- 🏅 Institute Rank **18 on GeeksforGeeks (BIT Sindri)**
+- 🌍 Global Rank **11433 in TCS CodeVita Season 13**
+
+Codeforces: https://codeforces.com/profile/shivamsingh987  
+GeeksforGeeks (Activity & Coding Score): https://www.geeksforgeeks.org/profile/shivamsin37xn?tab=activity
